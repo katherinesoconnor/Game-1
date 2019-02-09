@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=x\ y\ panel_w\ panel_h
+comment0.target=Cooky(int,\ int,\ int,\ int)
+comment1.params=dx\ dy
+comment1.target=void\ setSpeed(int,\ int)
+comment2.params=
+comment2.target=void\ hurt()
+comment3.params=
+comment3.target=boolean\ isAlive()
+comment4.params=
+comment4.target=void\ move()
+comment5.params=g
+comment5.target=void\ draw(java.awt.Graphics)
+comment6.params=
+comment6.target=java.awt.Rectangle\ getShape()
+numComments=7

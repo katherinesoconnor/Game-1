@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=p
+comment0.target=Experimental(int)
+comment1.params=
+comment1.target=double\ getProb()
+comment2.params=nums\ len
+comment2.target=void\ fillList(int[][],\ int)
+comment3.params=n
+comment3.target=boolean\ repeats(int[])
+numComments=4
